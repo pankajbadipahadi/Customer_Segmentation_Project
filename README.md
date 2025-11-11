@@ -32,8 +32,8 @@ customer_segmentation_project/
 
 ---
 
-## ▶️ Run the App
-
+## ▶️ Run the App using Streamlit link
+https://customersegmentationproject-vajjtxbzbghia9sqgzha7q.streamlit.app/
 
 
 ---
