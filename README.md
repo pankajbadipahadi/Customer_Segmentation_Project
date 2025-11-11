@@ -82,12 +82,12 @@ The dashboard shows:
 
 ## 🤝 Contributors
 
-**Pankaj Badipahadi** – Project Developer
-**Sanchit Satpaise**
-**Parth Neware**
-**Abdul Danish**
-**Shruty P**
-**Shrishav**
+* **Pankaj Badipahadi** – Project Developer
+* **Sanchit Satpaise**
+* **Parth Neware**
+* **Abdul Danish**
+* **Shruty P**
+* **Shrishav**
 
 ---
 
